@@ -17,8 +17,8 @@ A decentralized web application for issuing and verifying skill certificates on 
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/proofpi.git
-cd proofpi
+git clone 
+cd proofpihttps://github.com/Nov715715/ProofPi
 \`\`\`
 
 2. Install dependencies:
